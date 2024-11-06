@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Derrick Juma
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding and currently learning dart with flutter framework for android app development 
 - 🌱 I’m currently learning Data Science and basics in android app development
 - 💞️ I’m looking to collaborate on any project regarding android app development or Data Science
 - 📫 How to reach me ...Reach me on my email-derekjude254@gmail.com or on whatsapp at 0796248566
